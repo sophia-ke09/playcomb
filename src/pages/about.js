@@ -81,7 +81,7 @@ const About = () => (
           />
           <p className={styles.caption}>
             Sophia Ke <br />
-            <i>Experience Design</i>
+            <i>Interaction Design</i>
           </p>
         </div>
         <div className={styles.profile}>
